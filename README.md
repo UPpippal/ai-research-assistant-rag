@@ -1,3 +1,4 @@
+
 # AI Research Assistant (Hybrid RAG)
 
 An AI-powered research assistant that allows users to upload research papers and ask questions about them.
@@ -46,3 +47,5 @@ Answer + Sources
 ---
 
 ## Project Structure
+
+# ai-research-assistant-rag
